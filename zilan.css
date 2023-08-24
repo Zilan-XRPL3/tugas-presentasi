@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(212, 212, 94);
+}
+
+body{
+    background-color: rgb(138, 86, 19);
+}
+
+p{
+    text-align: center;
+}
+
+.namal{
+    color: rgb(134, 206, 182);
+}
+
+.napang{
+    color: antiquewhite;
+}
+
+.ttl{
+    color: aqua;
+}
+
+.warga{
+    color: azure;
+}
+
+.kerja{
+    color: aquamarine;
+}
+
+.usaha{
+    color: aqua;
+}
+
+.karya{
+    color: aquamarine;
+}
+
+.hobi{
+    color: azure;
+}
+
+.pendidikan{
+    color: bisque;
+}
+
+.keluarga{
+    color: aqua;
+}
